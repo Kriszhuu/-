@@ -1,4 +1,4 @@
-assume cs:codesg
+assume cs:codesg ;111111111111111111
 
 data segment    ;0123456789ABCDEF
 	db	'welcome to masm!' ;ds:[bx]
